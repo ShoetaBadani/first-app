@@ -4,7 +4,7 @@ export const BuyerReview = () => {
      <h1>Buyer review</h1>
     </>
    )
-};
+}
   
   export const  SellerReview = () => {
   return(
@@ -12,6 +12,5 @@ export const BuyerReview = () => {
       <h1>Seller review</h1>
     </>
   )
-    };
+    }
   
-  export { BuyerReview, SellerReview };
